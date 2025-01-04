@@ -1,0 +1,6 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://www.careerjet.co.in/company
+  local_data_file: artifacts/data_ingestion
