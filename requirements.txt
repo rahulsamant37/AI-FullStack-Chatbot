@@ -18,6 +18,7 @@ ensure
 python-box
 pyYAML
 tqdm
+playwright
 
 
 ##-e .
