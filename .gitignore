@@ -1,0 +1,7 @@
+venv
+myenv
+.env
+__pycache__
+logs
+artifacts
+.pytest_cache
