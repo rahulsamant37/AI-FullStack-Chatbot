@@ -1,0 +1,23 @@
+python-dotenv
+pandas
+numpy==1.26.4
+pymongo
+certifi
+pymongo[srv]
+scikit-learn
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+tensorflow
+keras
+python-dotenv
+ensure
+python-box
+pyYAML
+tqdm
+
+
+##-e .
